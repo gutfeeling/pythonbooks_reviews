@@ -1,12 +1,12 @@
-# Review Python books listed on [pythonbooks.org](http://pythonbooks.org)
+# Review Python books listed on [Pythonbooks](http://pythonbooks.org)
 
-Pythonbooks.org is a website that classifies and ranks Python books. In addition, visitors can leave reviews if they have 
+Pythonbooks is a website that classifies and ranks Python books. In addition, visitors can leave reviews if they have 
 a GitHub account.
 
 ## Here's how you can leave reviews
 
 1. Every book has a corresponding issue page on this repo. [See an example issue page](https://github.com/gutfeeling/pythonbooks_reviews/issues/80).
-2. When you comment on the issue page, your comment shows up as a review on [pythonbooks.org](http://pythonbooks.org). [See an example](http://pythonbooks.org/two-scoops-of-django-best-practices-for-django-18/#review-row).
+2. When you comment on the issue page, your comment shows up as a review on Pythonbooks. [See an example](http://pythonbooks.org/two-scoops-of-django-best-practices-for-django-18/#review-row).
 
 ## Guidelines
 
@@ -36,7 +36,7 @@ books should get 5 stars and the worst books should get 1 star.
    
 4. Any headings in the review text should be h3 formatted using `###`. 
 
-5. If you have read similar Python books, share how this book compares to the others. If you provide a comparison, please link to the other book's [pythonbooks.org](http://pythonbooks.org) page.
+5. If you have read similar Python books, share how this book compares to the others. If you provide a comparison, please link to the other book's pythonbooks.org page.
 
 Here is an [example review](https://github.com/gutfeeling/pythonbooks_reviews/issues/20#issuecomment-312451576).
 
