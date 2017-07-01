@@ -29,10 +29,9 @@ books should get 5 stars and the worst books should get 1 star.
 
    - *What did you like most about the book? What did you dislike the most?*
    
-   - *What makes the book unique and memorable (if any)?*
+   - *What makes the book unique or memorable (if applicable)?*
 
-3. If you have read other Python books that might be compared with this one, share how this book compares to the others 
-in your opinion. If you provide a comparison, please link to the other book's [pythonbooks.org](http://pythonbooks.org) page.
+3. If you have read similar Python books, share how this book compares to the others. If you provide a comparison, please link to the other book's [pythonbooks.org](http://pythonbooks.org) page.
 
 ## Formatting 
 
