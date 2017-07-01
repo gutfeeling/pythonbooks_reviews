@@ -18,18 +18,20 @@ reviews differently.
 will render it as :star:. For two stars, type `:star: :star:`. This will be rendered as :star: :star:. And so on. The best 
 books should get 5 stars and the worst books should get 1 star.
 
-2. Make sure that you include the following information in your review (in no particular order):
+2. Include the following information in your review:
     
-   - When did you read this book? 
+   - *When did you read this book?*
    
-   - What was your state of knowledge when you started reading this book and what were you expecting to learn?
+   - *What was your state of knowledge when you started reading this book and what were you expecting to learn?*
 
-   - Did the book help you learn the subject matter and become a better programmer? If yes, how much did it improve your 
-     skills? If it didn't improve anything, why not? 
+   - *Did the book meet your expectations and help you learn the subject matter? If yes, how much did it improve your 
+     knowledge? If it didn't improve anything, why not?* 
 
-   - If you quit reading midway, why did you quit?
+   - *If you quit reading midway, why did you quit?*
 
-   - What did you like most about the book? What did you dislike the most? What makes the book unique (if any)?
+   - *What did you like most about the book? What did you dislike the most?*
+   
+   - *What makes the book unique and memorable (if any)?*
 
 3. If you have read other Python books that might be compared with this one, share how this book compares to the others 
 in your opinion. If you provide a comparison, please link to the other book's [pythonbooks.org](http://pythonbooks.org) page.
