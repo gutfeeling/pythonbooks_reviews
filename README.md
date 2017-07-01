@@ -18,7 +18,9 @@ reviews differently.
 will render it as :star:. For two stars, type `:star: :star:`. This will be rendered as :star: :star:. And so on. The best 
 books should get 5 stars and the worst books should get 1 star.
 
-2. Include the following information in your review:
+2. In the same line as the star, add a very short summary of your opinion about the book. Think something in the lines of "Great book for Python beginners" or "Didn't learn much from this book, won't recommend". The summary line should be bold, formatted using `**`.
+
+3. Include the following information in your review:
     
    - *When did you read this book?*
    
@@ -32,6 +34,8 @@ books should get 5 stars and the worst books should get 1 star.
    - *What makes the book unique or memorable (if applicable)?*
    
    - *Who can benefit from this book? Would you recommend it to others?*
+   
+4. Any headings in the review text should be h3 formatted using `###`. 
 
 3. If you have read similar Python books, share how this book compares to the others. If you provide a comparison, please link to the other book's [pythonbooks.org](http://pythonbooks.org) page.
 
