@@ -38,6 +38,11 @@ in your opinion. If you provide a comparison, please link to the other book's [p
 
 Github style markdown is supported. 
 
+## It might take upto 10 minutes for your reviews to show up on the site
+
+Since the webpages are cached in the backend and the cache is flushed every 10 minutes, there might be a delay of upto 
+10 minutes before your review shows up on the site.
+
 ## I don't have a GitHub account. How do I leave a review?
 
 You can also send your review to reviews@pythonbooks.org. Don't forget to mention the name and author of the book you are 
