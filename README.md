@@ -25,9 +25,7 @@ books should get 5 stars and the worst books should get 1 star.
    - *What was your state of knowledge when you started reading this book and what were you expecting to learn?*
 
    - *Did the book meet your expectations and help you learn the subject matter? If yes, how much did it improve your 
-     knowledge? If it didn't improve anything, why not?* 
-
-   - *If you quit reading midway, why did you quit?*
+     knowledge?*
 
    - *What did you like most about the book? What did you dislike the most?*
    
