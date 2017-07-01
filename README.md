@@ -7,7 +7,7 @@ a GitHub account.
 
 1. Every book has a corresponding issue page on this repo. [See an example issue page](https://github.com/gutfeeling/pythonbooks_reviews/issues/80).
 2. When you comment on the issue page, your comment shows up as a trusted review on [pythonbooks.org](http://pythonbooks.org). [See how 
-this looks like](http://127.0.0.1:8003/two-scoops-of-django-best-practices-for-django-18/#review-row).
+this looks like](http://pythonbooks.org/two-scoops-of-django-best-practices-for-django-18/#review-row).
 
 ## Guidelines
 
