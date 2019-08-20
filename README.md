@@ -38,7 +38,7 @@ books should get 5 stars and the worst books should get 1 star.
 
 5. If you have read similar Python books, share how this book compares to the others. If you provide a comparison, please link to the other book's pythonbooks.org page.
 
-Here is an [example_review](https://github.com/gutfeeling/pythonbooks_reviews/issues/5#issuecomment-315513544).
+Here is an [example review](https://github.com/gutfeeling/pythonbooks_reviews/issues/5#issuecomment-315513544).
 
 ## Formatting 
 
