@@ -5,7 +5,7 @@ a GitHub account.
 
 ## Here's how you can leave reviews
 
-1. Every book has a corresponding issue page on this repo. [See an example issue page](https://github.com/gutfeeling/pythonbooks_reviews/issues/80).
+1. Every book has a corresponding issue page on this repo. [See an example issue page](https://github.com/gutfeeling/pythonbooks_reviews/issues/5).
 2. When you comment on the issue page, your comment shows up as a review on Pythonbooks. [See an example](http://pythonbooks.org/two-scoops-of-django-best-practices-for-django-18/#review-row).
 
 ## Guidelines
