@@ -6,7 +6,7 @@ a GitHub account.
 ## Here's how you can leave reviews
 
 1. Every book has a corresponding issue page on this repo. [See an example issue page](https://github.com/gutfeeling/pythonbooks_reviews/issues/5).
-2. When you comment on the issue page, your comment shows up as a review on Pythonbooks. [See an example](https://pythonbooks.org/python-crash-course-a-hands-on-project-based-introduction-to-programming/).
+2. When you comment on the issue page, your comment shows up as a review on Pythonbooks. [See an example](https://pythonbooks.org/python-crash-course-a-hands-on-project-based-introduction-to-programming/#review-row).
 
 ## Guidelines
 
