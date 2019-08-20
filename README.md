@@ -6,7 +6,7 @@ a GitHub account.
 ## Here's how you can leave reviews
 
 1. Every book has a corresponding issue page on this repo. [See an example issue page](https://github.com/gutfeeling/pythonbooks_reviews/issues/5).
-2. When you comment on the issue page, your comment shows up as a review on Pythonbooks. [See an example](http://pythonbooks.org/two-scoops-of-django-best-practices-for-django-18/#review-row).
+2. When you comment on the issue page, your comment shows up as a review on Pythonbooks. [See an example](https://pythonbooks.org/python-crash-course-a-hands-on-project-based-introduction-to-programming/).
 
 ## Guidelines
 
@@ -38,7 +38,7 @@ books should get 5 stars and the worst books should get 1 star.
 
 5. If you have read similar Python books, share how this book compares to the others. If you provide a comparison, please link to the other book's pythonbooks.org page.
 
-Here is an [example review](https://github.com/gutfeeling/pythonbooks_reviews/issues/20#issuecomment-312451576).
+Here is an [example_review](https://github.com/gutfeeling/pythonbooks_reviews/issues/5#issuecomment-315513544).
 
 ## Formatting 
 
